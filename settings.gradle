@@ -1,0 +1,2 @@
+rootProject.name='phaseCalc'
+include ':app'
